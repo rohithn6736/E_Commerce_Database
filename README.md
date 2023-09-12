@@ -2,7 +2,7 @@
 
 <img width="1000" alt="image" src="https://github.com/rohithn6736/E_Commerce_Database/assets/40146694/5d0c1656-b43f-4082-b1d9-3a92578dbe04">
 
-### The objective of this project is to develop a database management system for a retail business to manage customer information, product details, order history, and wishlist. The database will be designed using SQL and the implementation will include creating tables, triggers, indexes, views, and constraints. The project scope includes creating the necessary scripts to create the database and manage the schema using SQL.
+#### The objective of this project is to develop a database management system for a retail business to manage customer information, product details, order history, and wishlist. The database will be designed using SQL and the implementation will include creating tables, triggers, indexes, views, and constraints. The project scope includes creating the necessary scripts to create the database and manage the schema using SQL.
 
 ## Business Rules
 1.	An order can contain multiple order items  
